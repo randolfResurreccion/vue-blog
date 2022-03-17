@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In hic consectetur quibusdam pariatur vitae fugit delectus libero officiis, sequi cupiditate ducimus illum, ratione, assumenda dolorem!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding",
+        "frontend"
+      ]
+    },
+    {
+      "title": "Vue JS",
+      "body": "Learning a new javascript framework",
+      "tags": [
+        "coding",
+        "frontend",
+        "vue3",
+        "framework"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Javascript Framework",
+      "body": "React, Vue, Angular",
+      "tags": [
+        "frontend",
+        "coding",
+        "framework",
+        "library",
+        "react",
+        "vue",
+        "angular"
+      ],
+      "id": 4
+    }
+  ]
+}
